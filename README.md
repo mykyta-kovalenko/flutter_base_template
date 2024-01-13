@@ -8,7 +8,11 @@
 
 # linter
 
-# themes, light + dark with example switcher with save to shared prefs
+# themes
+
+- light, dark options
+- add example switcher with state saving to shared prefs
+- add font sizes, colors examples
 
 # localizations
 
@@ -22,7 +26,12 @@
 
 # example model for equatable
 
-# flutter gen asset generator, add example image, svg icon, lottie animation, font
+# flutter gen asset generator,
+
+- add example image,
+- svg icon,
+- rive animations,
+- fonts
 
 # vscode scripts, build scripts
 
