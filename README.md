@@ -1,5 +1,7 @@
 # flutter_base_template
 
+Hey There! I am currently working on this template at the moment. Eventually, there will be more and more sections filled out.
+
 # auto_route
 
 # demo_page with example routes
